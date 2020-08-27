@@ -17,5 +17,4 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fatherantelope&show_icons=true&theme=dracula&bg_color=303030&text_color=00a634&icon_color=bf3d3d&title_color=654ed9)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatherantelope&theme=dracula&layout=compact&bg_color=303030&text_color=00a634&title_color=654ed9)](https://github.com/anuraghazra/github-readme-stats)
