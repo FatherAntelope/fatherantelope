@@ -2,7 +2,7 @@
 
 ## Student of software engineering and web developer
 
-### Languages and Tools
+### Languages and Frameworks
 > ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b)
@@ -12,4 +12,5 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap&logoColor=563D7C)
 
 ### Follow me
-
+> [![VK](https://img.shields.io/badge/-Вконтакте-black?style=for-the-badge&logo=VK)](https://vk.com/vladlengorbunov)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/father_antelope/)
